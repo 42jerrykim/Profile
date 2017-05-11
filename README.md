@@ -1,5 +1,7 @@
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/10572092/latest-rides/b6b2e915f94db2d1d22b8b8456dde0d566abf0dc'></iframe>
 
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/10572092/activity-summary/b6b2e915f94db2d1d22b8b8456dde0d566abf0dc'></iframe>
+
 <a href="https://veloviewer.com/athlete/10572092/"><img src="https://veloviewer.com/SigImage/a18175/2/10/M/s/oinjlbdefa.png"></a>
 
 ## Welcome to GitHub Pages
